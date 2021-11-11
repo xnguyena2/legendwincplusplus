@@ -1,0 +1,12 @@
+﻿  initUI.cpp
+C:\Users\phong\Documents\Visual Studio 2019\Project\WindowsProject1\LegendCoffeApp\initUI.cpp(294,20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+C:\Users\phong\Documents\Visual Studio 2019\Project\WindowsProject1\LegendCoffeApp\initUI.cpp(314,16): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  LegendCoffeApp.cpp
+  MyFileReader.cpp
+  MySocket.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\phong\Documents\Visual Studio 2019\Project\WindowsProject1\LegendCoffeApp\MySocket.cpp(156): warning C4715: 'MySocket::socketClientHandler': not all control paths return a value
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LegendCoffeApp.vcxproj -> C:\Users\phong\Documents\Visual Studio 2019\Project\WindowsProject1\Release\LegendCoffeApp.exe
